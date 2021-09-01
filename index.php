@@ -78,7 +78,7 @@
        <div class="container">
        <div class="footer-copyright ">
           <div class="container">
-          <p > 2020 Copyright , all rights reserved to ujjwal</p>
+          
           </div>
         </div>
        </div>
