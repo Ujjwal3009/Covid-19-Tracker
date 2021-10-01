@@ -7,6 +7,7 @@
 I created this open source project using PHP for Coronavirus pandemic tracker.  
 
 This project tracks the Confirmed, Recovered and Deaths of many major countries.
+This project used third party API from John Hopkins University data.Apart from PHP it also uses HTML, CSS .
 
 
 
